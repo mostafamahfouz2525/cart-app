@@ -1,0 +1,16 @@
+.basket-item
+{
+    border: 2px solid #333;
+    position: relative;
+}
+.basket-item b 
+{
+    font-size: 22px;
+}
+
+.remove-item
+{
+    position: absolute;
+    top: 15px;
+    right: 15px;
+}
